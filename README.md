@@ -18,7 +18,7 @@ Personal Portfolio is a one page Html template
  
 # Bugs and Issues
 <p>
-Something is wrong with the theme? Let me know. I’ll help you out and fix the bug as soon as possible. Open a new issue here on GitHub, leave a comment on the template overview page at Themes Bootstrap or send me an email to <a href="mailto:contact@themesbootstrap.com.mx">contact@themesbootstrap.com.mx</a>.</p>
+Something is wrong with the theme? Let me know. I’ll help you out and fix the bug as soon as possible. Open a new issue here on GitHub, leave a comment on the template overview page at <a href="https://themesbootstrap.com.mx/templates/personal-portfolio-template.html">Themes Bootstrap</a> or send me an email to <a href="mailto:contact@themesbootstrap.com.mx">contact@themesbootstrap.com.mx</a>.</p>
  
 # About 
 <p>Themes Bootstrap is a collection of free to download Bootstrap themes and templates. All templates and themes on Themes Bootstrap are released under the MIT license, you can use them for any purpose, even for commercial projects.</p>
