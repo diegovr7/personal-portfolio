@@ -21,3 +21,5 @@ Personal Portfolio is a one page Html template
 <p>Themes Bootstrap is a project created and maintained by <a href="http://templune.com/">Diego Velázquez</a>, at <a href="https://smartoasis.mx/">Smart Oasis</a>
 <p>Themes Bootstrap is based on <a href="https://getbootstrap.com/">Bootstrap</a> created by <a href="https://twitter.com/mdo">Mark Otto</a> and <a href="https://twitter.com/fat">Jacob Thorton</a>.</p>
  
+# Copyright and License
+<p>Copyright (c) 2019 Diego. Code released under the MIT license.</p>
