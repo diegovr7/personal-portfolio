@@ -5,6 +5,12 @@
 # Live Preview
 <a href="https://themesbootstrap.com.mx/templates/personal-portfolio-template/index.html">View Live Preview</a>
 
+# Download Options 
+<ul>
+  <li><a href="https://themesbootstrap.com.mx/templates/personal-portfolio-template/index.html">Dowload latest version on Themes Bootstrap</a></li>
+  <li>Clone the repo: git clone </li>
+</ul>
+
 # External Resources 
 <ul>
   <li>Ionic Icons (https://ionicons.com/)</li>
