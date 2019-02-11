@@ -10,7 +10,8 @@ Personal Portfolio is a one page Html template
   <li>Smartwatch image by <a href="https://unsplash.com/@lukechesser">Luke Chesser</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Smartwatch image by <a href="https://unsplash.com/@lukechesser">Luke Chesser</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Smartwatch image by <a href="https://unsplash.com/@samuelzeller">Samuel Zeller</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Smartwatch image by Luke Chesser from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>Smartwatch image by <a href="https://unsplash.com/@nkachanovskyyy">Nikita Kachanovsky
+</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Smartwatch image by <a href="https://unsplash.com/@alexacea">Alexandru Acea</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Google Font <a href="https://fonts.google.com/specimen/Merriweather">Merriweather</a></li>
  </ul>
