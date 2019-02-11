@@ -8,7 +8,7 @@
 # Download Options 
 <ul>
   <li><a href="https://themesbootstrap.com.mx/templates/personal-portfolio-template/index.html">Dowload latest version on Themes Bootstrap</a></li>
-  <li>Clone the repo: git clone </li>
+  <li>Clone the repo: git clone https://github.com/diegovr7/personal-portfolio.git</li>
 </ul>
 
 # External Resources 
