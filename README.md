@@ -1,5 +1,6 @@
 # personal-portfolio
-Personal Portfolio is a one page Html template
+<p>Personal Portfolio is a one page responsive Bootstrap 4 template. This is a free open source theme, you can use our theme for any purpose, even commercially.</p>
+<p>Version 1.0.0</p>
 
 # Live Preview
 <a href="https://themesbootstrap.com.mx/templates/personal-portfolio-template/index.html">View Live Preview</a>
